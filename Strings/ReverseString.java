@@ -1,5 +1,4 @@
 
-
 class Solution {
     public void reverseString(char[] s) {
         int front = 0;
